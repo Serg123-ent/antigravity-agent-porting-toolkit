@@ -1,0 +1,11 @@
+{
+  "name": "antigravity-porting-toolkit",
+  "displayName": "Antigravity Agent Porting Toolkit",
+  "description": "Standardized protocol, skills, and templates for porting AI agents from Claude Code, OpenAI Codex, and Cursor into Google Antigravity.",
+  "version": "1.0.0",
+  "suggestedPrompts": [
+    "Портируй агента из внешнего репозитория в Antigravity",
+    "Проверь правила и навыки на совместимость с Antigravity",
+    "Преобразуй хуки жизненного цикла в нативные правила и навыки"
+  ]
+}
